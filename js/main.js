@@ -1,7 +1,7 @@
 (function ($) {
     "use strict";
     
-    // Dropdown on mouse hover
+    
     $(document).ready(function () {
         function toggleNavbarMethod() {
             if ($(window).width() > 992) {
